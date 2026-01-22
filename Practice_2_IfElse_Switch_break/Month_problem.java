@@ -50,6 +50,8 @@ public class Month_problem {
                 break;
         }
 
+        sc.close();
+
     }
 
 }
