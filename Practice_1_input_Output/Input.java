@@ -20,5 +20,6 @@ public class Input {
         //nextDouble() for double input
         //nextFloat() for float input
         //nextBoolean() for boolean input
+        sc.close();
     }
 }
